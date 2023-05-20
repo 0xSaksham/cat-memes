@@ -1,4 +1,4 @@
-# co6314fe1bd6ed96c53f2ee0c
+# Welcome to Cat Meme Picker app made by Saksham Gupta
 
 Quick start:
 
